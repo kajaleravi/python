@@ -102,7 +102,7 @@ Bitwise: &, |, ^
   	-float input
   		price = float(input("price : "))
   		
-  		
+
   		
 Conditional Statements: 
  if-elif-else(synatx)
