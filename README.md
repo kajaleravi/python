@@ -1,4 +1,4 @@
-what is python?
+**what is python?**
 - python is simple and easy
 - free and open source
 - high level language
@@ -6,7 +6,7 @@ what is python?
 - Developed by Guido van rossum
 
 
-Python Character set
+**Python Character set**
 - letters - A to Z, a to Z
 - digits - 0 to 9
 special symbols - -+-*/ etc
@@ -14,14 +14,14 @@ whitespaces - Blank space, tab, carriage return, newline, formfeed
 other Characters - python can process all ASCII and unicode Character as part of data or literals
 
 
-Variables: 
+**Variables**
     A Variable is name given to a memory location in a program.
     var = value
     name = ravi     (= assingment operator)
 
 
 
-Rule for identifiers:
+**Rule for identifiers**
     - identifiers can be combination of uppercase and lowercase letters, digits or an underscores.
         so myVariable, variable_1, variable_for_print all are valid python identifiers.
     - An identifier can not start with digit. So while variable_1 is valid, 1variable is not vaild.
@@ -29,7 +29,7 @@ Rule for identifiers:
     - identifier can be of any length.
 
 
-Data Types
+**Data Types**
  - Integers (25, -25, 0)
  - String ("heelo" 'helo' '''hello''')
  - Float (decimals)
@@ -37,7 +37,7 @@ Data Types
  - None (a = None)
  
  
-Operators:
+**Operators**
 arithmetic: +,-,*,/,//,%,**
 relational/comparison: ==, !=, >, <, >=, >=
 assignment : = , -=, *=, /=, %=, //=, **=
@@ -47,17 +47,17 @@ Identity: is, is not
 Bitwise: &, |, ^
  
  
- keywords:
+ **keywords**
  - Keywords in Python are reserved words that have a special meaning and purpose. They are used to define the syntax and structure of the Python language.
  
- types of tokens: 
+ **types of tokens**
  Punctuators:
  - are symbols to organize sentence structure in programming. 
   (), {}, @, [], #, etc
   agumented assigned operators are aslo punctuators: -=, +=, /= , *=, //=, = etc
   
   
-  expression execution: 
+  **expression execution**
   
   - String and numbers values can operate together with *
 	A,B = 2,3
