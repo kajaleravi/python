@@ -115,7 +115,31 @@ Conditional Statements:
  		statementN
   		
 
- 
+** Best practice**
+
+  - simple instructions
+  - one instruction per task
+  - short and meaningful variable names
+  - use appropriate Comments
+  - avoid complex expressions
+
+
+**Input in python**:
+- input() statement is used to accept values from user
+- input() #result for input() is always a str
+- int (input()) #int
+- float (input()) #float
+
+
+**type conversion**: 
+ - python does automatically
+ - can be concatinate only same types
+
+**Type casting**: 
+ - we need to do manually
+ - we use some functions here
+ - can typecast float into string
+ - works only when when other types contains data which fits into our new type
 
 
   
