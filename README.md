@@ -84,7 +84,7 @@ Bitwise: &, |, ^
   
   
  Comments in Python:
-  # single line comment
+  #single line comment
   
   """ This is 
   a multiline 
