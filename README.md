@@ -142,6 +142,21 @@ Conditional Statements:
  - can typecast float into string
  - works only when when other types contains data which fits into our new type
 
+** Strings**:
+
+ - String is a data type that stores sequence of characters.
+Basic operations:
+  concatenation:
+    "hello" + "world" ---> "helloworld"
+
+  length of str
+    len(str)
+
+  escape sequence characters:
+    \n 
+    \t
+ 
+
 
   
  
