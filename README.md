@@ -9,15 +9,15 @@
 **Python Character set**
 - letters - A to Z, a to Z
 - digits - 0 to 9
-special symbols - -+-*/ etc
-whitespaces - Blank space, tab, carriage return, newline, formfeed
-other Characters - python can process all ASCII and unicode Character as part of data or literals
+- special symbols - -+-*/ etc
+- whitespaces - Blank space, tab, carriage return, newline, formfeed
+- other Characters - python can process all ASCII and unicode Character as part of data or literals
 
 
 **Variables**
     A Variable is name given to a memory location in a program.
     var = value
-    name = ravi     (= assingment operator)
+    name = ravi     (here, = assingment operator)
 
 
 
@@ -38,13 +38,13 @@ other Characters - python can process all ASCII and unicode Character as part of
  
  
 **Operators**
-arithmetic: +,-,*,/,//,%,**
-relational/comparison: ==, !=, >, <, >=, >=
-assignment : = , -=, *=, /=, %=, //=, **=
-Logical: not, and, or
-Membership: in, not in
-Identity: is, is not
-Bitwise: &, |, ^
+  arithmetic: +,-,*,/,//,%,**
+  relational/comparison: ==, !=, >, <, >=, >=
+  assignment : = , -=, *=, /=, %=, //=, **=
+  Logical: not, and, or
+  Membership: in, not in
+  Identity: is, is not
+  Bitwise: &, |, ^
  
  
  **keywords**
@@ -61,7 +61,7 @@ Bitwise: &, |, ^
   
   - String and numbers values can operate together with *
 	A,B = 2,3
-  	Txt = "@"
+  Txt = "@"
  	print (2*Txt*3) #output = @@@@@@
   
   - String and string can operate with + 
@@ -153,14 +153,21 @@ Basic operations:
     len(str)
 
   escape sequence characters:
-    \n 
-    \t
+	\n
+ 	\t
 
     some topics realted to string: 
  		- indexing (postion of characters )
    		- slicing (accessing parts of a string)
+      (note : we comsider -ve index only while slicing, noraml string index are always starts with zero to -ve side)
 
 
+string Functions:
+str.endswith("any ending word") #returns true value if string ends with substr
+str.captalize()   #capatalizes 1st char
+str.replace("old" , "new") #replaces all occurances of old
+str.find("word") #returns 1st index of 1st occurrer
+str.count("word to count")  #counts the occurrence of substr
   
  
  
