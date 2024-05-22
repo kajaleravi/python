@@ -142,7 +142,7 @@ Conditional Statements:
  - can typecast float into string
  - works only when when other types contains data which fits into our new type
 
-** Strings**:
+**Strings**
 
  - String is a data type that stores sequence of characters.
 Basic operations:
