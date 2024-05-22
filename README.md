@@ -155,7 +155,10 @@ Basic operations:
   escape sequence characters:
     \n 
     \t
- 
+
+    some topics realted to string: 
+ 		- indexing (postion of characters )
+   		- slicing (accessing parts of a string)
 
 
   
