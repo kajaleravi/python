@@ -163,6 +163,7 @@ Basic operations:
 
 
 string Functions:
+for examples:
 str.endswith("any ending word") #returns true value if string ends with substr
 str.captalize()   #capatalizes 1st char
 str.replace("old" , "new") #replaces all occurances of old
@@ -171,3 +172,7 @@ str.count("word to count")  #counts the occurrence of substr
   
  
  
+
+List:
+A built-in data type that stores set of values
+it can store elements of different types(integer, flot , string, etc)
