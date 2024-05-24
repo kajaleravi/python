@@ -162,7 +162,7 @@ Basic operations:
       (note : we comsider -ve index only while slicing, noraml string index are always starts with zero to -ve side)
 
 
-string Functions:
+**string Functions**
 for examples:
 str.endswith("any ending word") #returns true value if string ends with substr
 str.captalize()   #capatalizes 1st char
